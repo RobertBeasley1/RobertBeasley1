@@ -2,4 +2,4 @@
 
 <h2> Cybersecurity Projects</h2>
 
-- <b>Harden Home Network Lab</b>
+- <a href="https://github.com/RobertBeasley1/Network-Hardening">Network Hardening</a>
